@@ -1,0 +1,4 @@
+{
+  "name": "AdVoice Batcher",
+  "description": "Batch process ad scripts from a CSV, generate creative tone variations using Gemini, and preview voiceovers."
+}
